@@ -1,8 +1,8 @@
-#  Marlon
+#  Good Readme Generator
           
 ## Description 
       
-This is a dedicated Readme.
+This is a professional readme creator that focuses on deriving quality information to the reader. Your readme must describe your project in a efficient and productive light. During The creation you must clearly point out all the qualities of your project. State your installation instructions, usage, and provide your contributors.
           
           
 ## Table of Contents (Optional)
@@ -20,15 +20,15 @@ If your README is very long, add a table of contents to make it easy for users t
           
 ## Installation
           
-Node.js LTS.
+The application will be invoked with the following command: node index.js . Make sure that your Node.js is installed and ready for use. Then install inquirer using: npm install inquirer. Remember axios must also be installed if you need to display any spi data. To install axios write to the terminal as follows: npm install axios.
           
 ## Usage 
           
-Creating readme files that are professional.
+
           
 ## Credits
           
-Marlon Mora
+
           
           
           
@@ -36,7 +36,7 @@ Marlon Mora
           
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
           
-MIT
+MIT. 
           
 ---
 
@@ -51,11 +51,11 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
           
 ## Contributing
           
-Marlon Mora
+ Marlon Mora
           
 ## Tests
           
-Passed.
+passed. 
           
 ## Contact
           
