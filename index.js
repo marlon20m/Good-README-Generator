@@ -68,6 +68,7 @@ function askQuestions() {
           console.log(results.data);
           data.picture = results.data.avatar_url;
           data.email = results.data.email;
+          data.url = results.data.html_url;
 
           console.log(data);
           var text = `
@@ -102,12 +103,14 @@ ${data.usage}
 ## Credits
           
 ${data.credit}
-          
-          
+
+${data.url}
           
 ## License
           
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
           
 ${data.license}
           

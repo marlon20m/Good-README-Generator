@@ -24,19 +24,21 @@ The application will be invoked with the following command: node index.js . Make
           
 ## Usage 
           
-
+This is a customizable readme for users to understand how important it is to use a good readme to highlight a projects features.
           
 ## Credits
           
+MIT License
 
-          
-          
+https://github.com/marlon20m
           
 ## License
           
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
           
-MIT. 
+MIT License
           
 ---
 
@@ -51,11 +53,11 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
           
 ## Contributing
           
- Marlon Mora
+Marlon Mora
           
 ## Tests
           
-passed. 
+Passed.
           
 ## Contact
           
