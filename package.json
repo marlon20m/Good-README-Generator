@@ -1,0 +1,25 @@
+{
+  "name": "Good-Readme-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "READMETemplate.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlon20m/Good-Readme-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlon20m/Good-Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/marlon20m/Good-Readme-Generator#readme"
+}
