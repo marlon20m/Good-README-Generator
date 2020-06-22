@@ -1,4 +1,4 @@
-# :+1: Good Readme Generator :white_check_mark:
+# 🏆 Good Readme Generator 🏆
           
 ## Description 
       
@@ -24,14 +24,14 @@ The application will be invoked with the following command: node index.js . Make
           
 ## Usage 
 
-[![Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)]
+![kb usage](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)
 This is a customizable readme for users to understand how important it is to use a good readme to highlight a projects features.
           
 ## Credits
           
-1 Contributor.
-
-https://github.com/marlon20m
+1 Contributor. </br > 
+Marlon Mora </br >
+Github: https://github.com/marlon20m
           
 ## License
           
@@ -39,7 +39,7 @@ https://github.com/marlon20m
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
           
-MIT License can be found in the License folder.  :file_folder:
+MIT License - Github can be found in the License file.  :file_folder:
 
 ---
 
@@ -48,11 +48,11 @@ MIT License can be found in the License folder.  :file_folder:
 ## Badges
           
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-![Github Watchers](https://img.shields.io/github/watchers/marlon20m/Good-Readme-Generator?style=social)
 ![Github Code size](https://img.shields.io/github/languages/code-size/marlon20m/Good-Readme-Generator)
 ![Code](https://img.shields.io/github/languages/top/marlon20m/Good-Readme-Generator?style=plastic)
 ![npm Version](https://img.shields.io/npm/v/npm)
 ![Inquirer](https://img.shields.io/node/v/inquirer)
+![Github Watchers](https://img.shields.io/github/watchers/marlon20m/Good-Readme-Generator?style=social)
           
 Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
           
@@ -62,8 +62,8 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 Marlon Mora
           
 ## Tests
-          
-Passed.
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)] </br >
+Passed
           
 ## Contact :email:
           
