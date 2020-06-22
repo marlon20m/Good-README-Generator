@@ -62,7 +62,7 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 Marlon Mora
           
 ## Tests
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)] </br >
+![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg) </br >
 Passed
           
 ## Contact :email:
