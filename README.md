@@ -1,11 +1,11 @@
-#  Good Readme Generator
+#  Good Readme Generator :book:
           
 ## Description 
       
 This is a professional readme creator that focuses on deriving quality information to the reader. Your readme must describe your project in a efficient and productive light. During The creation you must clearly point out all the qualities of your project. State your installation instructions, usage, and provide your contributors.
           
           
-## Table of Contents (Optional)
+## Table of Contents :clipboard:
           
 If your README is very long, add a table of contents to make it easy for users to find what they need.
           
@@ -18,7 +18,7 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Contact](#Contact)
           
           
-## Installation
+## Installation :wrench:
           
 The application will be invoked with the following command: node index.js . Make sure that your Node.js is installed and ready for use. Then install inquirer using: npm install inquirer. Remember axios must also be installed if you need to display any spi data. To install axios write to the terminal as follows: npm install axios.
           
@@ -28,7 +28,7 @@ This is a customizable readme for users to understand how important it is to use
           
 ## Credits
           
-Crediting Node.js, axios, and inquirer which were all installed to allow the customization of this Readme.md
+MIT License can be found in the License folder. 
 
 https://github.com/marlon20m
           
@@ -38,8 +38,8 @@ https://github.com/marlon20m
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
           
-MIT License can be found in the License folder. 
-          
+MIT License can be found in the License folder.  :file_folder:
+
 ---
 
 🔥 🏆 🔥 Creating a Good Readme involves flair. Please try to add as much decor as possible without looking unprofessional. 
@@ -64,7 +64,7 @@ Marlon Mora
           
 Passed.
           
-## Contact
+## Contact :email:
           
 ![alt text](https://avatars0.githubusercontent.com/u/62806466?v=4)
 marlonmora.ndr@gmail.com

@@ -72,14 +72,14 @@ function askQuestions() {
 
           console.log(data);
           var text = `
-#  ${data.title}
+#  ${data.title} :book:
           
 ## Description 
       
 ${data.description}
           
           
-## Table of Contents (Optional)
+## Table of Contents :clipboard:
           
 If your README is very long, add a table of contents to make it easy for users to find what they need.
           
@@ -92,7 +92,7 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Contact](#Contact)
           
           
-## Installation
+## Installation :wrench:
           
 ${data.installation}
           
@@ -112,8 +112,8 @@ ${data.url}
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
           
-${data.license}
-          
+${data.license} :file_folder:
+
 ---
 
 🔥 🏆 🔥 Creating a Good Readme involves flair. Please try to add as much decor as possible without looking unprofessional. 
@@ -138,7 +138,7 @@ ${data.contributing}
           
 ${data.tests}
           
-## Contact
+## Contact :email:
           
 ![alt text](${data.picture})
 marlonmora.ndr@gmail.com
