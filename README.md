@@ -23,7 +23,8 @@ If your README is very long, add a table of contents to make it easy for users t
 The application will be invoked with the following command: node index.js . Make sure that your Node.js is installed and ready for use. Then install inquirer using: npm install inquirer. Remember axios must also be installed if you need to display any spi data. To install axios write to the terminal as follows: npm install axios.
           
 ## Usage 
-          
+
+[![Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)]
 This is a customizable readme for users to understand how important it is to use a good readme to highlight a projects features.
           
 ## Credits
