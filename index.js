@@ -72,7 +72,7 @@ function askQuestions() {
 
           console.log(data);
           var text = `
-#  ${data.title} :book:
+# :+1: ${data.title} :white_check_mark:
           
 ## Description 
       
@@ -92,7 +92,7 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Contact](#Contact)
           
           
-## Installation :wrench:
+## :construction: Installation :construction:
           
 ${data.installation}
           
