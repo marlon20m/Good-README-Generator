@@ -66,7 +66,7 @@ Passed.
           
 ## Contact :email:
           
-![alt text](https://avatars0.githubusercontent.com/u/62806466?v=4)
+![alt text](https://avatars0.githubusercontent.com/u/62806466?v=4)</br >
 marlonmora.ndr@gmail.com
 ---
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
