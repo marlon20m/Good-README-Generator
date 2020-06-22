@@ -121,11 +121,10 @@ ${data.license}
 ## Badges
           
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-![npm Version](https://img.shields.io/npm/v/npm)
-![Node LTS](https://img.shields.io/node/v-lts/12.16.1)
-![Code](https://img.shields.io/github/languages/top/marlon20m/Good-Readme-Generator?style=plastic)
 ![Github Watchers](https://img.shields.io/github/watchers/marlon20m/Good-Readme-Generator?style=social)
 ![Github Code size](https://img.shields.io/github/languages/code-size/marlon20m/Good-Readme-Generator)
+![Code](https://img.shields.io/github/languages/top/marlon20m/Good-Readme-Generator?style=plastic)
+![npm Version](https://img.shields.io/npm/v/npm)
 ![Inquirer](https://img.shields.io/node/v/inquirer)
           
 Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
@@ -142,10 +141,7 @@ ${data.tests}
 ## Contact
           
 ![alt text](${data.picture})
-
-![alt text](marlonmora.ndr@gmail.com)
-//*$data.email not working with the api.  
-          
+marlonmora.ndr@gmail.com
 ---
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
           
