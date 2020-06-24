@@ -64,7 +64,9 @@ Marlon Mora
 
 ![Alt Text](https://media.giphy.com/media/U4w4MJkJ8aIzEtDhKE/giphy.gif)
 
-[![Watch the video](https://i.imgur.com/FOfemo1.png)](https://youtu.be/UU-vfSIYnco)
+Click image below to watch the full video:</br >
+</br >
+[![Watch the video](https://imgur.com/zRkT2hI)](https://youtu.be/UU-vfSIYnco)
 
           
 ## Tests
