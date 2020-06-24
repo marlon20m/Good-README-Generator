@@ -66,7 +66,7 @@ Marlon Mora
 
 Click image below to watch the full video:</br >
 </br >
-[![Watch the video](https://imgur.com/zRkT2hI)](https://youtu.be/UU-vfSIYnco)
+[![Watch the video](https://imgur.com/zRkT2hI.png)](https://youtu.be/UU-vfSIYnco)
 
           
 ## Tests
