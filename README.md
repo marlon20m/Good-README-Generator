@@ -28,7 +28,7 @@ This is a customizable readme for users to understand how important it is to use
           
 ## Credits
           
-1 Contributor.
+Marlon Mora
 
 https://github.com/marlon20m
           
@@ -38,7 +38,7 @@ https://github.com/marlon20m
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
           
-MIT License can be found in the License folder.  :file_folder:
+MIT License can be found in the License file. :file_folder:
 
 ---
 
@@ -62,7 +62,7 @@ Marlon Mora
           
 ## Tests
           
-Passed.
+Passed. On terminal run npm test for passing results.
           
 ## Contact :email:
           
