@@ -28,9 +28,9 @@ This is a customizable readme for users to understand how important it is to use
           
 ## Credits
           
-Marlon Mora
+Marlon Mora </br >
 
-https://github.com/marlon20m
+Github: https://github.com/marlon20m
           
 ## License
           
@@ -59,14 +59,21 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 ## Contributing
           
 Marlon Mora
+
+## Demonstration
+
+![Alt Text](https://media.giphy.com/media/U4w4MJkJ8aIzEtDhKE/giphy.gif)
+
+[![Watch the video](https://i.imgur.com/FOfemo1.png)](https://youtu.be/UU-vfSIYnco)
+
           
 ## Tests
           
-Passed. On terminal run npm test for passing results.
+Passed. On terminal run npm test.
           
 ## Contact :email:
           
-![alt text](https://avatars0.githubusercontent.com/u/62806466?v=4)
+![alt text](https://avatars0.githubusercontent.com/u/62806466?v=4)</br >
 marlonmora.ndr@gmail.com
 ---
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
