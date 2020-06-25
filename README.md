@@ -67,12 +67,12 @@ Marlon Mora
 Click image below to watch the full video:</br >
 
 <a href="https://youtu.be/UU-vfSIYnco">
-  <img src="https://imgur.com/zRkT2hI.png" width="700" />
+  <img src="https://imgur.com/zRkT2hI.png" width="550" />
 </a>
 
 ## Tests
 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)] </br >
+![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg) </br >
 Passed. Run npm test in the terminal. 
           
 ## Contact :email:
