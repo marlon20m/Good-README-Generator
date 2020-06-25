@@ -72,7 +72,7 @@ function askQuestions() {
 
           console.log(data);
           var text = `
-# :+1: ${data.title} :white_check_mark:
+# 🏆 ${data.title} 🏆 
           
 ## Description 
       
@@ -97,14 +97,13 @@ If your README is very long, add a table of contents to make it easy for users t
 ${data.installation}
           
 ## Usage 
-          
+![kb usage](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)</br >
 ${data.usage}
           
 ## Credits
-          
-${data.credit}
-
-${data.url}
+1 Contributor. </br > 
+${data.credit} </br >
+Github: https://github.com/marlon20m ${data.url}
           
 ## License
           
@@ -121,11 +120,11 @@ ${data.license} :file_folder:
 ## Badges
           
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-![Github Watchers](https://img.shields.io/github/watchers/marlon20m/Good-Readme-Generator?style=social)
 ![Github Code size](https://img.shields.io/github/languages/code-size/marlon20m/Good-Readme-Generator)
 ![Code](https://img.shields.io/github/languages/top/marlon20m/Good-Readme-Generator?style=plastic)
 ![npm Version](https://img.shields.io/npm/v/npm)
 ![Inquirer](https://img.shields.io/node/v/inquirer)
+![Github Watchers](https://img.shields.io/github/watchers/marlon20m/Good-Readme-Generator?style=social)
           
 Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
           
@@ -133,14 +132,27 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 ## Contributing
           
 ${data.contributing}
+
+
+## Demonstration
+
+![Alt Text](https://media.giphy.com/media/U4w4MJkJ8aIzEtDhKE/giphy.gif)
+
+Click image below to watch the full video:</br >
+
+<a href="https://youtu.be/UU-vfSIYnco">
+  <img src="https://imgur.com/zRkT2hI.png" width="700" />
+</a>
+
           
 ## Tests
-          
+
+![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg) </br >
 ${data.tests}
           
 ## Contact :email:
           
-![alt text](${data.picture})
+![alt text](${data.picture})</br >
 marlonmora.ndr@gmail.com
 ---
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

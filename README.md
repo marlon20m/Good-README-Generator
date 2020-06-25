@@ -1,4 +1,4 @@
-# :+1: Good Readme Generator :white_check_mark:
+# 🏆 Good Readme Generator 🏆 
           
 ## Description 
       
@@ -23,14 +23,13 @@ If your README is very long, add a table of contents to make it easy for users t
 The application will be invoked with the following command: node index.js . Make sure that your Node.js is installed and ready for use. Then install inquirer using: npm install inquirer. Remember axios must also be installed if you need to display any spi data. To install axios write to the terminal as follows: npm install axios.
           
 ## Usage 
-          
+![kb usage](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)</br >
 This is a customizable readme for users to understand how important it is to use a good readme to highlight a projects features.
           
 ## Credits
-          
+1 Contributor. </br > 
 Marlon Mora </br >
-
-Github: https://github.com/marlon20m
+Github: https://github.com/marlon20m https://github.com/marlon20m
           
 ## License
           
@@ -38,7 +37,7 @@ Github: https://github.com/marlon20m
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
           
-MIT License can be found in the License file. :file_folder:
+Github - MIT License can be found in the License file. :file_folder:
 
 ---
 
@@ -47,11 +46,11 @@ MIT License can be found in the License file. :file_folder:
 ## Badges
           
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-![Github Watchers](https://img.shields.io/github/watchers/marlon20m/Good-Readme-Generator?style=social)
 ![Github Code size](https://img.shields.io/github/languages/code-size/marlon20m/Good-Readme-Generator)
 ![Code](https://img.shields.io/github/languages/top/marlon20m/Good-Readme-Generator?style=plastic)
 ![npm Version](https://img.shields.io/npm/v/npm)
 ![Inquirer](https://img.shields.io/node/v/inquirer)
+![Github Watchers](https://img.shields.io/github/watchers/marlon20m/Good-Readme-Generator?style=social)
           
 Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
           
@@ -60,18 +59,21 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
           
 Marlon Mora
 
+
 ## Demonstration
 
 ![Alt Text](https://media.giphy.com/media/U4w4MJkJ8aIzEtDhKE/giphy.gif)
 
 Click image below to watch the full video:</br >
-</br >
-[![Watch the video](https://imgur.com/zRkT2hI.png)](https://youtu.be/UU-vfSIYnco)
 
-          
+<a href="https://youtu.be/UU-vfSIYnco">
+  <img src="https://imgur.com/zRkT2hI.png" width="700" />
+</a>
+
 ## Tests
-          
-Passed. On terminal run npm test.
+
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)] </br >
+Passed. Run npm test in the terminal. 
           
 ## Contact :email:
           
